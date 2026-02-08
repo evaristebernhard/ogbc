@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+stage2/.env
+stage2/data/*.db
+stage2/data/*.json
